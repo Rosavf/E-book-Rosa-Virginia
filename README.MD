@@ -47,7 +47,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 05 headlines para nomes épicos forte e direto sobre Visual Studio Code - Exemplo: Domine seu editor como um verdadeiro caçador de bugs.                                                                                                                                                                                                   |
 | conteúdo | Faça um texto para o E-book , com foco em VS code, (Forte, direto e com o espírito “Hashira” do desenvolvimento)
- {REGRAS} Explique sempre de uma maneira simples 
+ {REGRAS} |Explique sempre de uma maneira simples 
 
 Canva
 
