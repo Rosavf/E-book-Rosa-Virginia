@@ -31,7 +31,14 @@
 💡Que este e-book seja o seu pergaminho de técnicas secretas.
 💡Respire fundo, afie sua katana e entre no dojo com confiança.
 💡Você está prestes a despertar o Pilar do Código que existe em você. 🗡️💻 ⚡💻
-<a href="https://web.dio.me/articles/domine-o-emmet-no-css-escreva-codigos-10x-mais-rapido-no-vs-code-8b3d3b3f9659?back=/articles" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+
+### 🟣 E-book gratuito para devs
+> Domine seu editor como um verdadeiro Hashira do código!
+
+📘 [📥 Baixar agora o e-book PDF](assets/E-book PRT.pdf)
+
+
+<!-- <a href="https://web.dio.me/articles/domine-o-emmet-no-css-escreva-codigos-10x-mais-rapido-no-vs-code-8b3d3b3f9659?back=/articles" title="View PDF now"> 📕Clique aqui para ler o artigo</a> -->
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -51,7 +58,7 @@ ChatGPT：
 
 Canva
 
-- No Canva criei tuda a diagramação do E-book:
+- No Canva, criei toda a diagramação do e-book.:
 
 Canva.
 
