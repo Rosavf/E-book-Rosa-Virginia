@@ -19,7 +19,7 @@
   />
 </p>
 
-# Projeto artigo técnico gerado por I.A.s
+# Projeto E-Book  gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Olá, eu sou a Rosa 👋 e preparei este e-book com muito carinho para você que vive (ou está começando) no mundo do desenvolvimento web — e que, assim como eu, ama katanas e códigos afiados.
