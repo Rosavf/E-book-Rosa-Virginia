@@ -35,7 +35,7 @@
 ### 🟣 E-book gratuito para devs
 > Domine seu editor como um verdadeiro Hashira do código!
 
-📘 [📥 Baixar agora o e-book PDF](assets/E-book PRT.pdf)
+📘 [📥 Baixar agora o e-book PDF](assets/E-book_PRT.pdf)
 
 
 <!-- <a href="https://web.dio.me/articles/domine-o-emmet-no-css-escreva-codigos-10x-mais-rapido-no-vs-code-8b3d3b3f9659?back=/articles" title="View PDF now"> 📕Clique aqui para ler o artigo</a> -->
